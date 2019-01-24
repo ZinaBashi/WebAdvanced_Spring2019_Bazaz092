@@ -1,0 +1,52 @@
+body{
+	width: 100%;
+	height: 100%;
+	background-color: skyblue;
+	font-family: 'Yrsa', serif;
+}
+
+p{
+	font-size: 100px;
+	color: white;
+	width: 100%;
+	justify-content: center;
+}
+
+.msg{
+	color: black;
+	font-size: 30px;
+	justify-content: center;
+	width: 90%;
+	margin-left: 5%;
+
+}
+
+.container{
+	width: 80%;
+	margin-left: 10%;
+	margin-top: 10%;
+	height: 80vw;
+
+	background-color: white;
+}
+
+.boxes {
+	width: calc(94% / 3);
+	margin: 1%;
+	height: 600px;
+	background-color: black;
+	float: left;
+}
+
+#box1{
+	background-color: pink;
+}
+
+#box2{
+	background-color: yellow;
+	
+}
+
+#box3{
+ 	background-color: palegreen;
+}
