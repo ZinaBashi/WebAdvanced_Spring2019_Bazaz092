@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Decision tree</title>
+  
+  
+  
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+
+  
+<div id="tree">
+  <h2>It's Valentines Day & You're feeling lonely in nyc..
+   <br> Craving Human interaction?</h2>
+  <ul>
+    <li> 
+      <h3>No</h3>  <!-- first  answer -->
+      <p class="text hidden">Do you have a busy life?</p>
+      <ul> 
+        <li> 
+          <h4>No</h4>
+          <p class="text hidden"> Does your building allow pets?</p>
+          <ul>
+            <li>Yes!
+              <p class="text hidden">GO ADOPT A BUNNY</p>
+            </li>
+            <li>No
+              <p class="hidden">Holla at your friends honey.</p>
+            </li>
+          </ul><span class="back hidden">Back</span>
+        </li>
+         <li> 
+          <h4>Yes</h4> 
+          <p class="text hidden">Aw too bad you'll remain lonely tonight</p>
+        </li><span class="back hidden">Back</span>
+      </ul>
+    </li>
+    <li> 
+      <h3>Yes</h3> <!-- First Answer -->
+      <p class="text hidden">Are your friends free?</p>
+      <ul> 
+        <li><p> Yes!!</p>
+      <p class="text hidden"> Meet up with them! </p>
+        <li><p> Nope</p>
+            <p class="text hidden">Aw too bad you'll remain lonely tonight</p>
+
+        </li>
+      </ul>
+    </li><span class="back hidden">Back to Dogs & Cats</span>
+  </ul>
+</div>
+  <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+
+  
+
+    <script  src="js/index.js"></script>
+
+
+
+
+</body>
+
+</html>
