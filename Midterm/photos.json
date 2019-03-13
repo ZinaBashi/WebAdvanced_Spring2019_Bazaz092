@@ -1,0 +1,37 @@
+[
+  {
+    "title": "ero",
+    "url": "../images/eromanual.gif",
+    "desc": "Product Design"
+  },
+    {
+    "title": "dnating",
+    "url": "../images/dnating.gif",
+    "desc": "Speculative Product Design"
+  }, {
+    "title": "resting bitch face",
+    "url": "../images/rbfnina.gif",
+    "desc": "Coding | Experimental"
+  }, {
+    "title": "harakat",
+    "url": "../images/harakatGif.gif",
+    "desc": "Event Branding"
+  }, {
+    "title": "txtr",
+    "url": "../images/txtr.gif",
+    "desc": "Photography | Layout"
+  }, {
+    "title": "chai ti",
+    "url": "../images/ChaiTi.jpg",
+    "desc": "Urban Interaction Design"
+  }, {
+    "title": "remix",
+    "url": "../images/remix.gif",
+    "desc": "Typography | Coding"
+  },
+  {
+    "title": "self-perception",
+    "url": "../images/Perception.png",
+    "desc": "Video Editing"
+  }
+]
